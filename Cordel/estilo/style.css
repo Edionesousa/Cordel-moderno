@@ -12,3 +12,13 @@
     --cor6:#ffffff;
     --cor7:#000000;
 }
+html, body{
+    min-height: 100vh;
+    background-color:var(--cor4);
+
+}
+header{
+    background-color:#52223c;
+    color: #ffffff;
+    text-align: center;
+}
