@@ -63,3 +63,12 @@ footer{
     text-align: center;
     padding: 10px;
 }
+img{
+    width: 150px;
+    size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+ 
+    
+}
