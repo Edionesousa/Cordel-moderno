@@ -39,7 +39,7 @@ style#header>p{
     font-family: 'Dancing Script', cursive;
 }
 a{
-    color:#e8d7a9;
+    color:var(--cor6);
     text-decoration: none;
     font-weight: bolder;
 }
