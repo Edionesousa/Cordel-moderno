@@ -21,6 +21,9 @@
 html, body{
     min-height: 95vh;
     background-color:var(--cor3);
+    max-width: 1000px;
+    min-width: 250px;
+    margin: auto;
 
 }
 header{
